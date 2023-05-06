@@ -25,10 +25,12 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <table>
   <tr>
     <td>Repository</td>
-    <td>URL</td>
+    <td>Github.io</td>
+    <td>Url</td>
   </tr>
   <tr>
     <td>android-mirror</td>
+    <td>https://sanjeevstephan.github.io/android-mirror/</td>
     <td>https://github.com/SanjeevStephan/android-mirror</td>
   </tr>
 </table>
