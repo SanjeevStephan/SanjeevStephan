@@ -22,9 +22,16 @@
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
 <h3 align="left">I'm working on</h3>
 <p align="left">
-|S.No| Repository | 
-|-----|------------|
-|1| [android-mirror](https://github.com/SanjeevStephan/android-mirror) | 
+<table>
+  <tr>
+    <td>Repository</td>
+    <td>URL</td>
+  </tr>
+  <tr>
+    <td>android-mirror</td>
+    <td>https://github.com/SanjeevStephan/android-mirror</td>
+  </tr>
+</table>
 
 </p>
 
