@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeevstephan?logo=twitter&style=for-the-badge" alt="sanjeevstephan" /></a> </p>
 
 
-- 🤔 I’m looking for help with [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
+- 🤔 I’m looking for contributor for [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
 
 - 💬 Ask me about **PowerShell, Python & SmartHome Automation**
 
@@ -14,9 +14,19 @@
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
 
-- ⚡ Fun fact **I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
+- ⚡ Interesting Fact**I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
+
+- ⚡ Fun Fact  **Github is my second home on the cloud**
+
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
+<h3 align="left">I'm working on</h3>
+<p align="left">
+|S.No| Repository | 
+|-----|------------|
+|1| [android-mirror](https://github.com/SanjeevStephan/android-mirror) | 
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
