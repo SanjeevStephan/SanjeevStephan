@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
 
-- ⚡ Interesting Fact**I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
+- ⚡ Interesting Fact **I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
 
 - ⚡ Fun Fact  **Github is my second home on the cloud**
 - **📕 Latest dev.to posts [@sanjeevstephan](https://dev.to/sanjeevstephan)**
