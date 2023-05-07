@@ -20,6 +20,21 @@
 
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
+
+<h3 align="left">My Works</h3>
+<p align="left">
+<table>
+  <tr>
+    <td>Website</td>
+    <td>Github.io URL</td>
+  </tr>
+  <tr>
+    <td>Mandi Eddpa</td>
+    <td>https://mandieddpa.github.io/</td>
+  </tr>
+</table>
+
+
 <h3 align="left">I'm working on</h3>
 <p align="left">
 <table>
