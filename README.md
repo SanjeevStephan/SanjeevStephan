@@ -81,13 +81,13 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
         <img src="https://img.icons8.com/color/48/null/android-os.png"/> 
     </a>
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg" alt="html5" width="40" height="40"/> 
     </a>
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+       <img src="https://img.icons8.com/color/48/null/css3.png"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
