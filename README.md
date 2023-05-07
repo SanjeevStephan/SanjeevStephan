@@ -29,7 +29,7 @@
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
 
-<h3 align="left">My Favo Repository</h3>
+<h3 align="left">Tools My LIFE Depends Upon</h3>
 <p align="left">
      <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -75,7 +75,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/sanjeevstephan/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Skills:</h3>
 <p align="left">   
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/null/android-os.png"/> 
