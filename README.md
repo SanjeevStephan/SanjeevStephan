@@ -24,24 +24,13 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <h3 align="left">My Works:</h3>
 <p align="left">
     <a href="https://wosanthali.github.io/" target="_blank"> <img src="assets/WoSanthali.png" alt="html5" width="90" height="90"/> </a>
-    <a href="https://ctsmarthome.github.io/" target="_blank"> <img src="assets/ctSmarthome.png" alt="html5" width="90" height="90"/> </a>
     <a href="https://mandieddpa.github.io/" target="_blank"> <img src="assets/mandieddpa.png" alt="css3" width="220" height="90"/> </a>
  </p>
 
 <h3 align="left">I'm working on</h3>
 <p align="left">
-<table>
-  <tr>
-    <td>Repository</td>
-    <td>Github.io</td>
-    <td>Url</td>
-  </tr>
-  <tr>
-    <td>android-mirror</td>
-    <td>https://sanjeevstephan.github.io/android-mirror/</td>
-    <td>https://github.com/SanjeevStephan/android-mirror</td>
-  </tr>
-</table>
+    <a href="https://ctsmarthome.github.io/" target="_blank"> <img src="assets/ctSmarthome.png" alt="html5" width="90" height="90"/> </a>
+ </p>
 
 </p>
 
