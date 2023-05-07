@@ -5,8 +5,8 @@
     <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
-    
  </p>
+ 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeevstephan alt=sanjeevstephan/> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeevstephan?logo=twitter&style=for-the-badge" alt="sanjeevstephan" /></a> </p>
@@ -25,9 +25,25 @@
 - ⚡ Interesting Fact**I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
 
 - ⚡ Fun Fact  **Github is my second home on the cloud**
-
+- **📕 Latest dev.to posts [@sanjeevstephan](https://dev.to/sanjeevstephan)**
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
+
+<h3 align="left">My Favo Repository</h3>
+<p align="left">
+     <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </a>    
+     <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </a>   
+     <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>    
+    <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </a>   
+</p>
 
 <h3 align="left">My Works:</h3>
 <p align="left">
@@ -51,7 +67,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <a href="https://instagram.com/sanjeevstephan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
-**📕 Latest dev.to posts [@sanjeevstephan](https://dev.to/sanjeevstephan)**
+
 <!-- BLOG-POST-LIST:START 
 - [How I improved my GitHub profile?](https://dev.to/sanjeevstephan/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/sanjeevstephan/awesome-frontendmasters-course-resources-1gj2)
