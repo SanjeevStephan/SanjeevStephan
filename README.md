@@ -28,21 +28,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     <a href="https://mandieddpa.github.io/" target="_blank"> <img src="assets/mandieddpa.png" alt="css3" width="220" height="90"/> </a>
  </p>
 
-
-<h3 align="left">My Works</h3>
-<p align="left">
-<table>
-  <tr>
-    <td>Website</td>
-    <td>Github.io URL</td>
-  </tr>
-  <tr>
-    <td>Mandi Eddpa</td>
-    <td>https://mandieddpa.github.io/</td>
-  </tr>
-</table>
-
-
 <h3 align="left">I'm working on</h3>
 <p align="left">
 <table>
