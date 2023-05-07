@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Stephan</h1>
 
 <h3 align="center">An Automation Enthusiast 🤓 & Android App developer from India 🇮🇳</h3>
+<p align="center">
+    <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+    
+ </p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeevstephan alt=sanjeevstephan/> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeevstephan?logo=twitter&style=for-the-badge" alt="sanjeevstephan" /></a> </p>
@@ -12,7 +18,7 @@
 
 - 💬 Ask me about **PowerShell, Python & SmartHome Automation**
 
-- 📫 Subscribe : **[youtube.com/@SanjeevStephan](https://www.youtube.com/@SanjeevStephan?sub_confirmation=1)**
+- 📫 Subscribe : **[youtube.com/@SanjeevStephan](https://www.youtube.com/@SanjeevStephan?sub_confirmation=1)**  
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
 
