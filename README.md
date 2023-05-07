@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PowerShell, Python & SmartHome Automation**
 
-- 📫 Subscribe **https://www.youtube.com/@SanjeevStephan**
+- 📫 Subscribe : **[youtube.com/@SanjeevStephan](https://www.youtube.com/@SanjeevStephan?sub_confirmation=1)**
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
 
