@@ -63,4 +63,4 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SanjeevStephan&show_icons=true alt=SanjeevStephan /> </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=SanjeevStephan&show_icons=true alt=SanjeevStephan /> </p>
