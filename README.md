@@ -50,7 +50,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     <a href="https://wosanthali.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132732229?s=400&u=cfca1c76f0809ddd20fee927c4f35fe35a7a6790&v=4" alt="html5" width="90" height="90"/> </a>
     <a href="https://mandieddpa.github.io/" target="_blank"> <img src="assets/mandieddpa.png" alt="css3" width="220" height="90"/> </a>
  </p>
-
+ 
 <h3 align="left">I'm working on</h3>
 <p align="left">
     <a href="https://ctsmarthome.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132699848?s=200&v=4" alt="html5" width="90" height="90"/> </a>
