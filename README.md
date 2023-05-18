@@ -53,7 +53,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <h3 align="left">I'm working on</h3>
 <p align="left">
-    <a href="https://ctsmarthome.github.io/" target="_blank"> <img src="assets/ctSmarthome.png" alt="html5" width="90" height="90"/> </a>
+    <a href="https://ctsmarthome.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132699848?s=200&v=4" alt="html5" width="90" height="90"/> </a>
  </p>
 
 </p>
