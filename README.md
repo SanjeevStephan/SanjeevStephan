@@ -58,7 +58,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
  
  <h3 align="left">Projects I Am Proud Of!</h3>
 <p align="left">
-        <a href="https://mandieddpa.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/Stephanware-projects-transparent.png" alt="stephanwares" width="200" height="200"/> </a>     
+        <a href="https://stephanwares.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/Stephanware-projects-transparent.png" alt="stephanwares" width="200" height="200"/> </a>     
     </p>
 
  
