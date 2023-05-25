@@ -49,16 +49,12 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <p align="left">
     <a href="https://wosanthali.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132732229?s=400&u=cfca1c76f0809ddd20fee927c4f35fe35a7a6790&v=4" alt="html5" width="90" height="90"/> </a>
     <a href="https://mandieddpa.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/mandieddpa.png" alt="mandieddpa" width="220" height="90"/> </a>
+     <a href="https://ctsmarthome.in" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132699848?s=200&v=4" alt="html5" width="90" height="90"/> </a>
  </p>
  
 <h3 align="left">I'm working on</h3>
 <p align="left">
-    <a href="https://ctsmarthome.in" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132699848?s=200&v=4" alt="html5" width="90" height="90"/> </a>
- </p>
- 
- <h3 align="left">Projects I Am Proud Of!</h3>
-<p align="left">
-        <a href="https://stephanwares.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/Stephanware-projects-transparent.png" alt="stephanwares" width="200" height="200"/> </a>     
+ <a href="https://stephanwares.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/Stephanware-projects-transparent.png" alt="stephanwares" width="200" height="200"/> </a>     
     </p>
 
  
