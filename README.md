@@ -9,8 +9,9 @@
  
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeevstephan alt=sanjeevstephan/> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/twitter/follow/sanjeevstephan?logo=twitter&style=for-the-badge" alt="sanjeevstephan" /></a> </p>
+<p align="left">Subscribe to My <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> </p>
 
+<!-- <p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/youtube/follow/sanjeevstephan?logo=youtube&style=for-the-badge" alt="sanjeevstephan" /></a> </p> -->
 
 
 
