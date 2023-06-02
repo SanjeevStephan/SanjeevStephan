@@ -27,7 +27,7 @@
 - ⚡ Fun Fact  **Github is my second home on the cloud**
 - **📕 Latest dev.to posts [@sanjeevstephan](https://dev.to/sanjeevstephan)**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://sanjeevstephan.github.io/docs)
+I have a bug to document technical stuffs that I do, which can be found at my [stephanware-blog](https://stephanwares.github.io/)
 
 <h3 align="left">Tools My LIFE Depends Upon</h3>
 <p align="left">
