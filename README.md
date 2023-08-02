@@ -62,11 +62,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [s
 
 
 
-
-
- 
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanjeevstephan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sanjeevstephan" height="30" width="40" /></a>
