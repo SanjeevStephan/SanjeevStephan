@@ -42,23 +42,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [s
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     </a>   
 </p>
-
-<h3 align="left">My Works:</h3>
-<p align="left">
-    <a href="https://wosanthali.github.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132732229?s=400&u=cfca1c76f0809ddd20fee927c4f35fe35a7a6790&v=4" alt="html5" width="90" height="90"/> </a>
-    <a href="https://mandieddpa.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/mandieddpa.png" alt="mandieddpa" width="220" height="90"/> </a>
-     <a href="https://ctsmarthome.in" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132699848?s=200&v=4" alt="html5" width="90" height="90"/> </a>
-         <a href="https://github.com/SanjeevStephan/superuser" target="_blank"> <img src="https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/superuser-logo-winner.png" alt="html5" width="160" height="60"/> </a>
-<a href="https://smtiglobal.github.io/"> <img src="https://smtiglobal.github.io/assets/smti-logo.png" alt="stephanwares" width="210" height="60"/> </a>    
- </p>
  
-<h3 align="left">I'm working on</h3>
-<p align="left">
- <a href="https://stephanwares.github.io/"> <img src="https://ctsmarthome.in/assets/img/github/Stephanware-projects-transparent.png" alt="stephanwares" width="210" height="200"/> </a>     
-</p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanjeevstephan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sanjeevstephan" height="30" width="40" /></a>
