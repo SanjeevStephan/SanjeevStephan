@@ -13,7 +13,7 @@
 
 
 
-- 🤔 I’m looking for contributor for [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
+# - 🤔 I’m looking for contributor for [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
 
 - 💬 Ask me about **PowerShell, Python & SmartHome Automation**
 
