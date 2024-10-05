@@ -7,21 +7,19 @@
     </a>
  </p>
  
-<p align="left">=> Subscribe to My <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1" target="blank">YouTube Channel</a> </p>
+<p align="left">=> Subscribe to My <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1" target="blank">YouTube Channel</a> If you want to be my friend! </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sanjeevstephan" target="blank"><img src="https://img.shields.io/youtube/follow/sanjeevstephan?logo=youtube&style=for-the-badge" alt="sanjeevstephan" /></a> </p> -->
 
+ - 🤔 All Time Favourite Tool [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
 
-
-# - 🤔 I’m looking for contributor for [terminal automation script => 'superuser'](https://github.com/SanjeevStephan/superuser)
-
-- 💬 Ask me about **PowerShell, Python & SmartHome Automation**
+- 💬 Ask me about **PowerShell, Python & Automation**
 
 - 📫 Subscribe : **[youtube.com/@SanjeevStephan](https://www.youtube.com/@SanjeevStephan?sub_confirmation=1)**  
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
 
-- ⚡ Interesting Fact **I would rather spend an entire week coding an automation script instead of doing same repeatitive task that would otherwise takes even 7 minute each day for eternity**
+- ⚡ Interesting Fact **I would rather spend an entire week coding an tool that would make me do less work rather than doing same repeatitive task that would otherwise takes even 10 minute each day for eternity**
 
 - ⚡ Fun Fact  **Github is my second home on the cloud**
 - **📕 Latest dev.to posts [@sanjeevstephan](https://dev.to/sanjeevstephan)**
