@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephan</h1>
 
-<h3 align="center">An Automation & Cybersecurity Enthusiast 🤓 & Android App developer from India 🇮🇳</h3>
+<h3 align="center">An Automation & Cybersecurity Enthusiast 🤓 & Django App developer </h3>
 <p align="center">
     <a href="https://www.youtube.com/@SanjeevStephan?sub_confirmation=1">
        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
