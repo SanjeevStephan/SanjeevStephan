@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **PowerShell, Python & Automation**
 
+- My LinkedIn : [My Linkedin](https://www.linkedin.com/in/sanjeevstephan/)
+
 - 📫 Subscribe : **[youtube.com/@SanjeevStephan](https://www.youtube.com/@SanjeevStephan?sub_confirmation=1)**  
 
 - 👨‍💻 All of my projects are available at [SanjeevStephan's github](https://sanjeevstephan.github.io/)
